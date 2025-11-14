@@ -18,6 +18,8 @@ A combinação de sensores/botões, lógica digital e temporizadores sugere um s
 ## **Somador programável com memória**
 
 
+<img width="1100" height="882" alt="image" src="https://github.com/user-attachments/assets/4aacfaa4-d78e-401c-9709-f3030bea0680" />
+
 *Somador programável um Circuito Integrado de memória de 16 bytes. Utilize um CI do tipo RAM/ROM do simulide e o configure corrretamente para ser uma ROM. Acrescente um contador binário para acessar os endereços dessa memória sucessivamente a partir de um clock. Cada byte lido deve executar uma instrução no somador programável e gerar um resultado final para a operação: (-2) + (0) + (7). Caso o primeiro operando seja negativo, o valor a ser carregado deve estar em C2 e para os demais operandos que forem negativos, utilize uma operação de subtração.  O resultado final deve aparecer em um display.*
 
 <img width="502" height="763" alt="image" src="https://github.com/user-attachments/assets/9f41245e-38f8-48ac-a187-2a325f29e4a4" />
